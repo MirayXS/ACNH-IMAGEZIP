@@ -5,4 +5,4 @@
 
 ### Could be used for [NHSE](https://github.com/kwsch/NHSE)
 > If you want to setup these images on NHSE, read the [NHSE Item Editing Wiki](https://github.com/kwsch/NHSE/wiki/Item-Editing)
-#### You have to provide images yourself in the corresponding folder.
+#### You have to provide images yourself in the corresponding folder. Folder Name: `items`
