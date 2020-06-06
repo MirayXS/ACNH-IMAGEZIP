@@ -10,16 +10,16 @@
 #### You have to provide images in the corresponding folder. Folder Name: `items`
 #### Find The Latest ACNH-IMAGEZIP [Here...](https://github.com/MirayXS/ACNH-IMAGEZIP/releases)
 
-## 📝 Latest ACNH-IMAGEZIP Images Versions
-<details>
-<summary>Click to reveal</summary>
-  
----
-
-| 1.0.0 | 1.1.0 | 1.2.0 |
-|-------|-------|-------|
-
-</details>
+<!-- ## 📝 Latest ACNH-IMAGEZIP Images Versions  -->
+<!-- <details>  -->
+<!-- <summary>Click to reveal</summary>  -->
+<!--    -->
+<!-- ---  -->
+<!--  -->
+<!-- | 1.0.0 | 1.1.0 | 1.2.0 |  -->
+<!-- |-------|-------|-------|  -->
+<!--  -->
+<!-- </details> -->
 
 ## ⭐ Sources
 <details>
