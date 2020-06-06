@@ -8,8 +8,7 @@
 ### ⚙ Could be used for [NHSE](https://github.com/kwsch/NHSE)
 > If you want to setup these images on NHSE, read the [NHSE Item Editing Wiki](https://github.com/kwsch/NHSE/wiki/Item-Editing)
 #### You have to provide images in the corresponding folder. Folder Name: `items`
-#### This IMAGEZIP is complete.
-#### Find The Latest IMAGEZIP [Here...](https://github.com/MirayXS/ACNH-IMAGEZIP/releases)
+#### Find The Latest ACNH-IMAGEZIP [Here...](https://github.com/MirayXS/ACNH-IMAGEZIP/releases)
 
 ## 📝 Latest ACNH-IMAGEZIP Images Versions
 <details>
