@@ -1,15 +1,9 @@
 # 🏛 ACNH-IMAGEZIP
-
-<hr>
-
 > Animal Crossing: New Horizons Images - IMAGEZIP
 
 <hr>
 
 ## 📚 ZIP File that includes all Animal Crossing: New Horizons images
-
-<hr>
-
 #### 💬 Website: [mirayxs.github.io/ACNH-IMAGEZIP](https://mirayxs.github.io/ACNH-IMAGEZIP)
 
 <hr>
@@ -21,8 +15,6 @@
 <hr>
 
 #### Find The Latest ACNH-IMAGEZIP [Here...](https://github.com/MirayXS/ACNH-IMAGEZIP/releases)
-
-<hr>
 
 <!-- ## 📝 Latest ACNH-IMAGEZIP Images Versions  -->
 <!-- <details>  -->
