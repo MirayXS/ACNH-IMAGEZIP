@@ -1,0 +1,21 @@
+@font-face{font-family:sf text;src:url(https://sf.abarba.me/SF-UI-Text-Bold.otf)}@font-face{font-family:sf text medium;font-weight:400;src:url(https://sf.abarba.me/SF-UI-Text-Medium.otf)}@font-face{font-family:sf text regular;font-weight:400;src:url(https://sf.abarba.me/SF-UI-Text-Regular.otf)}body,html{margin:0;height:100%;width:auto;background:rgba(0,0,0,.9) url(../themes/main.png);background-blend-mode:darken;overflow:hidden;background-size:cover;background-repeat:no-repeat;background-position:center}.center{position:absolute;font-family:sf text regular;text-align:center;color:#fff;top:50%;left:50%;font-size:30px;transform:translate(-50%,-50%)}#thicc{background-size:cover;font-size:55px;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-image:url(../themes/main.png);font-family:sf text;overflow:hidden;background-size:cover;background-position:center}#learnmore{background-size:cover;font-size:35px;line-height:60px;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-image:url(../themes/main.png);font-family:sf text;overflow:hidden;background-size:cover;background-position:center}
+
+/* Button */
+
+@font-face {
+    font-family: "SF Text Regular";
+    font-weight: 400;
+    src: url("https://sf.abarba.me/SF-UI-Text-Regular.otf");
+}
+
+
+button {
+    box-sizing: border-box;
+    margin: 8px 0px;
+    padding: 12px 20px;
+    font-family: "SF Text Regular"; 
+    border-image: url("../themes/main.png") 27 stretch;
+    background: rgba(0, 0, 0, 0);
+    overflow: hidden;
+    color: white;
+}
