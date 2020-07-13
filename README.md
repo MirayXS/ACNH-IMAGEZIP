@@ -6,6 +6,9 @@
 ## 📚 ZIP File that includes all Animal Crossing: New Horizons images
 #### 💬 Website: [mirayxs.github.io/ACNH-IMAGEZIP](https://mirayxs.github.io/ACNH-IMAGEZIP)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=ACNHCDN)](https://github.com/MirayXS/ACNHCDN)
+
+
 <hr>
 
 ### ⚙ Could be used for [NHSE](https://github.com/kwsch/NHSE)
